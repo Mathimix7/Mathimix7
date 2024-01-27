@@ -7,7 +7,7 @@ Python Enthusiast
 A 16-year-old on a coding adventure from crafting Python scripts to exploring web development and diving into Arduino programming, I enjoy the versatility that coding offers.
 
 * 🌍  I'm based in the US
-* 🖥️  See my portfolio at [mathimix.com](http://mathimix.com)
+* 🖥️  See my portfolio at [mathimix.me](http://mathimix.me)
 * ✉️  You can contact me at [mathimixich@gmail.com](mailto:mathimixich@gmail.com)
 * 🧠  I'm learning Java
 
